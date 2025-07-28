@@ -1,1 +1,1 @@
-# UI-AI
+Today we made 3 codes to utilize an AI. To create descriptions about a picture, another to be able to asnwer qustions which is closely related to ChatGPT, and Gemini . Our last AI, is an AI that can receive our input and make that output from text to speech.
